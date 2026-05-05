@@ -23,5 +23,5 @@ So yeah — I’m very comfortable learning things the hard way.
 
 ---
 
-> Trying to learn a little bit of everything… and occasionally getting good at some of it.
-*Thanks for stopping by. The best projects are still ahead.*
+*Trying to learn a little bit of everything… and occasionally getting good at some of it.*
+*The best projects are still ahead.*
