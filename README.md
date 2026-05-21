@@ -1,27 +1,29 @@
-## Hi, I'm Daniel 👋
+### Hi, I'm Daniel
 
-I build systems that make other systems behave better.
+CTO at Insurance Nation. AI Engineer by craft.
 
-Most of my background is in automation, workflows, and making businesses move faster without adding more chaos. These days, that curiosity has pulled me deep into **AI Engineering** — not just using models, but building things around them that actually *work in the real world*.
+I spend my time designing systems that turn slow, manual operations into something closer
+to software. Most of that work now involves applied AI — RAG pipelines over
+messy real-world documents, agents that handle the work between the work,
+and automation that quietly removes the parts nobody should be doing by hand.
 
-### 🔧 What I'm working on
-- RAG pipelines for messy, real-world documents (insurance is a fun one)
-- AI agents that do more than just reply
-- Automations that replace repetitive “human glue work”
+This profile is where the engineering side of that lives.
 
-Basically: building tools that I wish existed a few years ago.
+#### What I'm building
 
-### 🌍 Background
-- Born in Havana 🇨🇺  
-- Built my career in the U.S.  
-- MS in Computer Science — Georgia Tech (while running a tech department full-time)
+- **RAG systems** for high-variance document workflows (insurance is a good
+  proving ground — forms, endorsements, carrier docs, none of it clean)
+- **AI agents** wired into real operational systems, not just chat
+- **Automation** that replaces the human glue between tools
 
-So yeah — I’m very comfortable learning things the hard way.
+#### Background
 
-### 📜 Certification
+- CTO, Insurance Nation — building the platform side of a modern insurance operation
+- MS Computer Science, Georgia Tech (completed while running a tech department)
 - AWS Certified Machine Learning Engineer – Associate
+- Originally a Telecom Engineer out of Havana; built the rest of the career in the U.S.
 
----
+#### Elsewhere
 
-*Trying to learn a little bit of everything… and occasionally getting good at some of it.*
-*The best projects are still ahead.*
+- Site: [danielbz.com](https://danielbz.com)
+- LinkedIn: [danielbaezpi](https://linkedin.com/in/danielbaezpi)
