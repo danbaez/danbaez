@@ -1,29 +1,37 @@
-### Hi, I'm Daniel
+## Hi, I'm Daniel 👋
 
-CTO at Insurance Nation. AI Engineer by craft.
+CTO at Insurance Nation, AI engineer the rest of the time.
 
-I spend my time designing systems that turn slow, manual operations into something closer
-to software. Most of that work now involves applied AI — RAG pipelines over
-messy real-world documents, agents that handle the work between the work,
-and automation that quietly removes the parts nobody should be doing by hand.
+I build operational systems that survive contact with messy reality. Most of my
+work is taking software — and lately, AI — out of the demo stage and into
+workflows people actually depend on: the integrations, automation, and judgment
+that remove the steps no one should be doing by hand.
 
-This profile is where the engineering side of that lives.
+Insurance turns out to be a good proving ground — forms, endorsements, carrier
+docs, none of it clean — so most of what I build has to survive that reality
+before it counts.
 
-#### What I'm building
+### What I'm working on
+- AI systems that do work, not just answer questions
+- Agents and pipelines that handle repetitive operational work end to end
+- Automation that replaces the manual glue between tools
 
-- **RAG systems** for high-variance document workflows (insurance is a good
-  proving ground — forms, endorsements, carrier docs, none of it clean)
-- **AI agents** wired into real operational systems, not just chat
-- **Automation** that replaces the human glue between tools
+### For the joy of it
+Off the clock, I build at **[pirabits.com](https://pirabits.com)** — my personal
+digital lab. It's a pirate-themed chart of coding experiments: interactive toys,
+generative art, small machines of wonder. Some polished, some barely seaworthy,
+all built for the fun of building. It's where I get to be a more curious engineer
+and worry less about whether it ships.
 
-#### Background
+### Background
+Started as a telecom engineer in Havana and built the rest of my career in the
+U.S. Today, I lead technology at Insurance Nation, where I spend most of my time
+on systems, teams, and increasingly AI-powered workflows.
 
-- CTO, Insurance Nation — building the platform side of a modern insurance operation
-- MS Computer Science, Georgia Tech (completed while running a tech department)
-- AWS Certified Machine Learning Engineer – Associate
-- Originally a Telecom Engineer out of Havana; built the rest of the career in the U.S.
+Along the way: an MS in Computer Science from Georgia Tech (finished while
+running a tech department) and an AWS Machine Learning Engineer – Associate
+cert. More details live on [LinkedIn](https://linkedin.com/in/danielbaezpi).
 
-#### Elsewhere
-
-- Site: [danielbz.com](https://danielbz.com)
-- LinkedIn: [danielbaezpi](https://linkedin.com/in/danielbaezpi)
+### Elsewhere
+- 🌐 [danielbz.com](https://danielbz.com)
+- 💼 [LinkedIn](https://linkedin.com/in/danielbaezpi)
