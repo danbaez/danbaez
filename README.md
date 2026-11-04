@@ -15,6 +15,11 @@ before it counts.
 - AI systems that do work, not just answer questions
 - Agents and pipelines that handle repetitive operational work end to end
 - Automation that replaces the manual glue between tools
+- Tooling for AI coding agents — making Claude Code more visible and pleasant to work in
+- Local, private LLM workflows that keep data on my own machine
+
+### Open source
+- **[session-panel](https://github.com/danbaez/session-panel)**: the Claude Code desktop app's session panel, in the terminal: context use, MCP connectors, outputs and changes at a glance
 
 ### For the joy of it
 Off the clock, I build at **[pirabits.com](https://pirabits.com)** — my personal
