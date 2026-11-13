@@ -26,7 +26,7 @@ before it counts.
   pirate-themed chart of coding experiments: interactive toys, generative art,
   small machines of wonder. Some polished, some barely seaworthy, all built for
   the fun of building.
-- 🤖 **[Lulubots](https://LULUBOTS_DOMAIN)**: a bilingual (English/Spanish)
+- 🤖 **[Lulubots](https://thelulubots.com/)**: a bilingual (English/Spanish)
   educational world for kids ages 3–7. Little robot heroes take on germ-style
   villains inside the body, starting with Gardo and Reddix defending Smile City
   from Cavi. Built with my kid in mind, and on
