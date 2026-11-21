@@ -18,14 +18,17 @@ before it counts.
 - Tooling for AI coding agents, making Claude Code more visible and pleasant to work in
 - Local, private LLM workflows that keep data on my own machine
 
-### Open source
-- **[session-panel](https://github.com/danbaez/session-panel)**: the Claude Code desktop app's session panel, in the terminal: context use, MCP connectors, outputs and changes at a glance
+### Shipped
+- **[LupaX](https://chromewebstore.google.com/detail/hbbpbgakpjkikhgmmabnpmgikfjlhihj)**:
+  Chrome extension for CSS inspection and screen capture. Pull any page's design
+  tokens, then grab the screenshot, all in one tool.
+- **[session-panel](https://github.com/danbaez/session-panel)**: the Claude Code
+  desktop app's session panel, in the terminal: context use, MCP connectors,
+  outputs and changes at a glance
 
 ### For the joy of it
-- 🏴‍☠️ **[pirabits.com](https://pirabits.com)**: my personal digital lab. A
-  pirate-themed chart of coding experiments: interactive toys, generative art,
-  small machines of wonder. Some polished, some barely seaworthy, all built for
-  the fun of building.
+- 🏴‍☠️ **[Pirabits](https://pirabits.com)**: my indie game studio. Currently
+  charting a course on its first game; more to come once it's seaworthy.
 - 🤖 **[Lulubots](https://thelulubots.com/)**: a bilingual (English/Spanish)
   educational world for kids ages 3–7. Little robot heroes take on germ-style
   villains inside the body, starting with Gardo and Reddix defending Smile City
